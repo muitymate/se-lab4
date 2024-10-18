@@ -1,0 +1,5 @@
+#ha csak az egyikben van akkor is lo torpedot?
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+GT4500,1,0,0,0
+TORPEDO,SINGLE

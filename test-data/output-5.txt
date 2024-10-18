@@ -1,0 +1,2 @@
+SUCCESS #sikeres hajo
+Unknown firing mode: 'DOUBLE' #hibas bemenet
