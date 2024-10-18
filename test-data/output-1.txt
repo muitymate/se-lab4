@@ -1,0 +1,4 @@
+SUCCESS #hajolétrehoz
+SUCCESS # elso agyu lo es kifogy
+SUCCESS # masodik agyu lo es kifogy
+FAIL # nem maradt torpedo

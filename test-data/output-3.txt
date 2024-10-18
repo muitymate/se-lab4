@@ -1,0 +1,2 @@
+SUCCESS #hajo letrehoz
+FAIL #100% hiba valoszinuseg miatt
